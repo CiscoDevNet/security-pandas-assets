@@ -115,7 +115,10 @@ def main():
     #TODO df['Peer Host Groups'] =  df['Peer Host Groups'].apply(strip_host_groups)
 
     # Hands-on excercise: detect above-average flows
-    #TODO
+    #TODO plot_flows(total_sent, 'sent')
+    #TODO plot_flows(total_received, 'received)
+    #TODO print(detect_above_average_flows(df, "sent"))
+    #TODO print(detect_above_average_flows(df, "received"))
 
 
 if __name__ == '__main__':
