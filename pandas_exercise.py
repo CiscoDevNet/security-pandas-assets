@@ -116,7 +116,7 @@ def main():
 
     # Hands-on excercise: detect above-average flows
     #TODO plot_flows(total_sent, 'sent')
-    #TODO plot_flows(total_received, 'received)
+    #TODO plot_flows(total_received, 'received')
     #TODO print(detect_above_average_flows(df, "sent"))
     #TODO print(detect_above_average_flows(df, "received"))
 
